@@ -1,0 +1,5 @@
+file.py
+*.py
+ignoreme/
+**/bin
+**/packages
